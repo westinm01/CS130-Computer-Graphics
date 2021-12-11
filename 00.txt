@@ -1,0 +1,8 @@
+# Ignore lines at the beginning of the file that start with a # symbol
+# except for the "rows:" and "columns:" entries below, which tell you the dimensions
+# after those lines is the grid data that you will be rendering.
+# rows: 3
+# columns: 3
+1 1 1
+1 -1 1
+1 1 1
